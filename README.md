@@ -51,8 +51,17 @@ A user-friendly command-line contact manager built with Python. This app lets yo
 - ❌ Duplicate name detection
 - 🧠 Simple and intuitive menu system
 
-## 🧑‍💻 How to Run
-Make sure you have Python installed, then run:
-```bash
-python contact_book.py
+# 🎮 Rock-Paper-Scissors CLI Game
+
+A cheerful and interactive command-line game built with Python. Play against the computer in multiple rounds of rock-paper-scissors, complete with emoji feedback, score tracking, and replay options!
+
+## ✨ Features
+- 🪨 Rock, 📄 Paper, ✂️ Scissors gameplay
+- 🤖 Random computer moves
+- 📈 Score tracking across rounds
+- 🧮 Round counter
+- 🏁 Final result summary
+- 🔁 Replay option
+- ❌ Input validation with friendly prompts
+
 
