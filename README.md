@@ -36,8 +36,23 @@ A sleek and modern calculator app built with Python and Tkinter. Designed with a
 - Fonts: Segoe UI, Consolas
 - Emojis and styling for a playful, modern feel
 
-## 📸 Screenshots
-_Add screenshots here to showcase your app!_
-```markdown
-![Calculator Screenshot](images/calculator.png)
+# 📱 Contact Book CLI App
+
+A user-friendly command-line contact manager built with Python. This app lets you add, view, search, update, and delete contacts—all with a touch of emoji flair and persistent storage using JSON.
+
+## ✨ Features
+- ➕ Add new contacts with name, phone, email, and address
+- 📒 View all saved contacts
+- 🔍 Search contacts by name
+- 🛠️ Update contact details interactively
+- 🗑️ Delete contacts by name
+- 💾 Save contacts to `contacts.json`
+- 📂 Load saved contacts on startup
+- ❌ Duplicate name detection
+- 🧠 Simple and intuitive menu system
+
+## 🧑‍💻 How to Run
+Make sure you have Python installed, then run:
+```bash
+python contact_book.py
 
